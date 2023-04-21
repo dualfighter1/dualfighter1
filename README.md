@@ -1,4 +1,4 @@
-# My name is Noelle Jade
+<div align="center">My name is Noelle Jade
 
 Im just your average online geek and slightly cringe little nya.
 Im a fan of Touhou, Yugioh and Terraria.
@@ -11,3 +11,4 @@ My current project is a Ren'Py Visual Novel Base which can be found [Here](https
 I hope you have a good day!!!
 
 [![Noelle](https://dualfighter1.github.io/images/logo.png)](https://dualfighter1.github.io/)
+</div>
