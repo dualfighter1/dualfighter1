@@ -1,4 +1,6 @@
 <div align="center">My name is Noelle Jade
+  
+![Noelle Reiuji](https://dualfighter1.github.io/images/utsuho%20sprite%204x4.png)
 
 Im just your average online geek and slightly cringe little nya.
 Im a fan of Touhou, Yugioh and Terraria.
