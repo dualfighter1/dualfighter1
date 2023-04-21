@@ -3,8 +3,11 @@
 ![Noelle Reiuji](https://dualfighter1.github.io/images/utsuho%20sprite%204x4.png)
 
 Im just your average online geek and slightly cringe little nya.
-Im a fan of Touhou, Yugioh and Terraria.
+
 I enjoy coding, though im not the best at it.
+
+This is where i will post all ny actual projects and work in progress things. 
+They wont all be good quality but eh thats what you get when you look at code written by a cat.
 
 My mostly untouched google dev page can be found [Here](https://g.dev/Noelle_Jade)
 
