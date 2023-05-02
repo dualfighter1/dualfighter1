@@ -15,5 +15,5 @@ My current project is a Ren'Py Visual Novel Base which can be found [Here](https
 
 I hope you have a good day!!!
 
-[![Noelle](https://noelle.df1.dev/images/logo.png)](https://dualfighter1.github.io/)
+[![Noelle](https://noelle.df1.dev/images/logo.png)](https://noelle.df1.dev/)
 </div>
