@@ -8,6 +8,8 @@ I enjoy coding, though im not the best at it.
 
 This is where i will post all ny actual projects and work in progress things. 
 They wont all be good quality but eh thats what you get when you look at code written by a cat.
+  
+Thinking of learning music
 
 My mostly untouched google dev page can be found [Here](https://g.dev/Noelle_Jade)
 
