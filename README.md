@@ -2,20 +2,7 @@
   
 ![Noelle Reiuji](utsuho%20sprite%204x4.png)
 
-Im just your average online geek and slightly cringe little nya.
-
-I enjoy coding, though im not the best at it.
-
-This is where i will post all ny actual projects and work in progress things. 
-They wont all be good quality but eh thats what you get when you look at code written by a cat.
-  
-Thinking of learning music
-
-meow
-
-My mostly untouched google dev page can be found [Here](https://g.dev/Noelle_Jade)
-
-I hope you have a good day!!!
+Im just your average online geek and slightly cringe little nya. A bored cat girl struggling to reslly do anything in life, i enjoy the internet tho. funny people inside the computer box are still friends and id be nothing without them, much love and care to all of them <3
 
 Sites:
   
