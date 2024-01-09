@@ -1,11 +1,14 @@
-<div align="center">My name is Noelle Jade
+<div align="center">
+My name is Noelle Jade
   
 ![Noelle Reiuji](utsuho%20sprite%204x4.png)
 
-Im just your average online geek and slightly cringe little nya. A bored cat girl struggling to really do anything in life, i enjoy the internet tho. funny people inside the computer box are still friends and id be nothing without them, much love and care to all of them <3
+Hello there, im Noelle, A bored cat girl struggling to really do anything in life. <br>
+I struggle to focus and get things done but i still try. <br>
+I enjoy moral dilemas and playing a couple of games (Terraria and Limbus Company) <br>
+The funny people inside the computer box are all friends and id be nothing without them, much love and care to all of them <3
 
-Sites:
+Current projects: Finish making my website, Writing a digital Cook-Book and unify all of my online accounts.
   
 [![Noelle](https://noelle.df1.dev/images/logo.png)](https://noelle.df1.dev/)
-[![Noelle](logo-broken.png)](https://roxy.df1.dev/)
 </div>
