@@ -8,7 +8,7 @@ I struggle to focus and get things done but i still try. Please be patient with 
 I enjoy puzzles, cooking, reading and playing a couple of games (Terraria and Limbus Company) <br>
 The funny people inside the computer box are all friends and I'd be nothing without them, much love and care to all of them <3
 
-Current projects: Fun little programming projects and reading more books!
+Current projects: Setting up a Dell Poweredge R320
 
 See my site by clicking the button below!
 
