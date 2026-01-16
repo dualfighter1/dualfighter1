@@ -8,7 +8,7 @@ I struggle to focus and get things done but i still try. Please be patient with 
 I enjoy tech, cooking, reading and playing a couple of games <br>
 The funny people inside the computer box are all friends and I'd be nothing without them, much love and care to all of them <3
 
-Current Projects: Setting up a Dell Poweredge R320, Learning more C# and experimenting with stuff in general <br>
+Current Projects: Setting up a Dell Poweredge R320 8 bay 2.5" Server, Learning more C# and experimenting with stuff in general <br>
 Current Fave Languages: HTML, CSS, C#
 
 See my site by clicking the button below! <br>
